@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XTeam Test</string>
+    <string name="buy_now_placeholder">Buy Now!</string>
+    <string name="empty_view_placeholder">Something went wrong. Bob the builder is on his way to fix it up. Hang tight!</string>
+    <string name="action_search">Search</string>
+    <string name="action_search_close">Clear</string>
+</resources>

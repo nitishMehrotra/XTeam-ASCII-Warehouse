@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.qikwell.add_appointments.AddAppointmentActivity">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_white_18dp"
+        android:title="@string/action_search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_search_close"
+        android:icon="@drawable/ic_clear_white_18dp"
+        android:title="@string/action_search_close"
+        android:visible="false"
+        app:showAsAction="always" />
+</menu>
